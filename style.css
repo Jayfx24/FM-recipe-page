@@ -109,9 +109,11 @@ article h1{
     background-color: var(--rose-50);
     border-radius: 10px;
 }
-.preparation h3{
+.preparation p{
+    font-size: 1.17rem;
     color: var(--rose-800);
     margin-bottom: var(--spacing-sm);
+    font-weight: 700;
 }
 
 .preparation ul li::marker{
